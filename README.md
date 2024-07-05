@@ -6,4 +6,4 @@ Thank you for your support.
 
 - Afdian: [https://afdian.net/a/Hakadao](https://afdian.net/a/Hakadao)
 
-![sponsors](/sponsorkit/sponsors.svg)
+[![sponsors](/sponsorkit/sponsors.svg)](https://afdian.net/a/Hakadao?tab=sponsor)
