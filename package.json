@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@9.4.0",
+  "description": "",
+  "main": "sponsorkit.config.js",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "dependencies": {
+    "sponsorkit": "^0.14.6"
+  }
+}
